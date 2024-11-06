@@ -122,4 +122,3 @@ def encode_and_decode():
 
 # Run the combined encode and decode process
 encode_and_decode()
-requirements =
